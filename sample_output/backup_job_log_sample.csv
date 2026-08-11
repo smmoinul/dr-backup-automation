@@ -1,0 +1,8 @@
+backup_date,type,duration_min,files_copied,status
+2026-08-03,full,38.1,1204,SUCCESS
+2026-08-04,incremental,3.5,42,SUCCESS
+2026-08-05,incremental,2.9,31,SUCCESS
+2026-08-06,incremental,4.1,55,SUCCESS
+2026-08-07,incremental,3.2,28,SUCCESS
+2026-08-08,incremental,3.9,37,SUCCESS
+2026-08-09,incremental,4.2,44,SUCCESS
